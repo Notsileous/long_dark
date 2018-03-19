@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5b736fdded59594eaeac0ee693b52df
+timeCreated: 1521468326
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anti Everything
+  fontNames:
+  - Anti Everything
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
